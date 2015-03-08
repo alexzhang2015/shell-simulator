@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shell" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQAgABAIEAAAAAIYAEAAAAAAgACAgAAEAAEAAAIgg=</HashCode>
+      <FileName>shell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShellCommand" Collapsed="true">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAIAAABIAAAEAAAAAAAEAAABAEAAAAAAAAA=</HashCode>
+      <FileName>shellcommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmSimulator" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAEAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>atmsimulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CatCommand" Collapsed="true">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAIAAQEAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>catcommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandHelp" Collapsed="true">
+    <Position X="23.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAEAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>commandhelp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandParse" Collapsed="true">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>commandparse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitCommand" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAABEAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>exitcommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="History" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAAAAKAAAEAAAAAAAAAAAAAAACQEAAAAA=</HashCode>
+      <FileName>history.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HistoryObserver" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAQAAAAAAAAAAAQAAAIAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>historyobserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordCount" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAIAAQMAAAAAAAAAAAAAAAEBAAIAAA=</HashCode>
+      <FileName>wordcount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MergeSort" Collapsed="true">
+    <Position X="11" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>mergesort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickSort" Collapsed="true">
+    <Position X="14" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>quicksort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShellSort" Collapsed="true">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>shellsort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sort" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SortCommand" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAIAAQEgAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>sortcommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SortStrategy" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>sortstrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SortScheduler" Collapsed="true">
+    <Position X="19.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAgEkAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>sortscheduler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory&lt;T&gt;" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>factory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAABAAAAAAAAAACAAAAAQBAACAA=</HashCode>
+      <FileName>observer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="19.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>singleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefCounted" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAABAAAAAAAAQAAAAAACAAAAAAAABAAAAA=</HashCode>
+      <FileName>smartptr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartPointer&lt;C&gt;" Collapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAgAABABAIAAAAQAAAAAAAAAIAIAEABAAAAA=</HashCode>
+      <FileName>smartptr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector&lt;T&gt;" Collapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAABAAAAEpKAIQQACAAAAAAgAAEAEEAAAAAA=</HashCode>
+      <FileName>vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="echo::Echo" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAgIAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>echo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CompileAssert&lt;__formal&gt;" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="shellMap" Collapsed="true">
+    <Position X="29.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>shellcommand.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="schar" Collapsed="true">
+    <Position X="28" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int8" Collapsed="true">
+    <Position X="26.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int16" Collapsed="true">
+    <Position X="28" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int32" Collapsed="true">
+    <Position X="29.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int64" Collapsed="true">
+    <Position X="31.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint8" Collapsed="true">
+    <Position X="28" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint16" Collapsed="true">
+    <Position X="31.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint32" Collapsed="true">
+    <Position X="1.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint64" Collapsed="true">
+    <Position X="26.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="char32" Collapsed="true">
+    <Position X="26.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MetatagId" Collapsed="true">
+    <Position X="1.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="Ownership" Collapsed="true">
+    <Position X="28" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="base::LinkerInitialized" Collapsed="true">
+    <Position X="26.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basictype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

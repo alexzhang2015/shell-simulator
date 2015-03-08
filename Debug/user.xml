@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<Users num="6">
+	<User user_name="liu">
+		<password>e10adc3949ba59abbe56e057f20f883e</password>
+		<card_id>000001</card_id>
+		<cash>59131</cash>
+	</User>
+	
+	<User user_name="zhang">
+		<password>96e79218965eb72c92a549dd5a330112</password>
+		<card_id>000002</card_id>
+		<cash>1919</cash>
+	</User>
+	
+	<User user_name="chen">
+		<password>508df4cb2f4d8f80519256258cfb975f</password>
+		<card_id>000003</card_id>
+		<cash>1728</cash>
+	</User>
+	
+	<User user_name="qiu">
+		<password>5bd2026f128662763c532f2f4b6f2476</password>
+		<card_id>000004</card_id>
+		<cash>1042</cash>
+	</User>
+	
+	<User user_name="ren">
+		<password>e35cf7b66449df565f93c607d5a81d09</password>
+		<card_id>000005</card_id>
+		<cash>1000</cash>
+	</User>
+	
+	<User user_name="ju">
+		<password>8f62071d5b6736dcb7db16fd173df0e6</password>
+		<card_id>000006</card_id>
+		<cash>2200</cash>
+	</User>
+</Users>

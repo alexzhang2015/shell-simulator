@@ -1,0 +1,71 @@
+#!/bin/bash
+# A tempfile wrapper for mktemp
+# Note: If you can, avoid using tempfile and use mktemp instead.
+#       This wrapper is provided for compatibility since some scripts use
+#       tempfile. If possible, the best solution is to patch the scripts
+#       to use mktemp.
+# --Tushar Teredesai <tushar@linuxfromscratch.org>
+
+# Usage info
+usage()
+{
+	echo "Usage: tempfile [OPTION]"
+	echo
+	echo "Create a temporary file in a safe manner."
+	echo "This version is a wrapper that invokes mktemp."
+	echo "NOTE: Do not use tempfile in your scripts."
+	echo "      Use mktemp instead."
+	echo
+	echo "[-d|--directory] DIR -> place temporary file in DIR"
+	echo "[-p|--prefix] PREFIX -> ignored"
+	echo "[-s|--suffix] SUFFIX -> ignored"
+	echo "[-n|--name] NAME -> ignored"
+	echo "[-m|--mode] MODE -> ignored"
+	echo "--version -> output version information and exit"
+}
+
+# parse all arguments
+while [ $# != 0 ]
+do
+	case "$1" in
+	# -d for tempfile is equivalent to -p for mktemp
+	-d|--directory)
+		dir="$2"
+		shift 2
+	;;
+	--directory=*)
+		dir="${1#--directory=}"
+		shift 1
+	;;
+	-d*)
+		dir="${1#-d}"
+		shift 1
+	;;
+	# The following switches are ignored.
+	-p|--prefix|-s|--suffix|-n|--name|-m|--mode)
+		shift 2
+	;;
+	-p*|--prefix=*|-s*|--suffix=*|-n*|--name=*|-m*|--mode=*)
+		shift 1
+	;;
+	# --version for tempfile is equivalent to -V for mktemp
+	--version)
+		echo "tempfile 1.0 (`mktemp -V 2>/dev/null`)"
+		exit 0
+	;;
+	# Unknown switch
+	*)
+		usage
+		exit 1
+	;;
+	esac
+done
+
+# Use the dir if $TMPDIR is not set.
+if [ -z "$TMPDIR" -a ! -z "$dir" ]
+then
+	export TMPDIR="$dir"
+fi
+# Execute mktemp with proper arguments
+# the -t behaviour of mktemp is the default for tempfile
+exec mktemp -t

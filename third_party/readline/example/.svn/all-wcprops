@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/third_party/readline/example
+END
+completion.exe
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/62/trunk/third_party/readline/example/completion.exe
+END
+completion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/62/trunk/third_party/readline/example/completion.cpp
+END
+fileman.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/trunk/third_party/readline/example/fileman.exe
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/third_party/readline/example/readme.txt
+END
+fileman.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/third_party/readline/example/fileman.c
+END

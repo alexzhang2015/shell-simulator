@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/65/trunk/game/Release
+END
+numguess.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/game/Release/numguess.obj
+END
+numguess.pch
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/game/Release/numguess.pch
+END
+numguess.exe
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/game/Release/numguess.exe
+END
+playgame.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/game/Release/playgame.obj
+END
+vc60.idb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/65/trunk/game/Release/vc60.idb
+END
+main.obj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/65/trunk/game/Release/main.obj
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/third_party/MinGW
+END
+MinGW.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/third_party/MinGW/MinGW.txt
+END
+mingw-get-0.1-mingw32-alpha-4-bin.zip
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/58/trunk/third_party/MinGW/mingw-get-0.1-mingw32-alpha-4-bin.zip
+END

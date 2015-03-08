@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/73/trunk/atm
+END
+withdraw_transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/atm/withdraw_transaction.cpp
+END
+atm.vcproj.alex-PC.alex.user
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/71/trunk/atm/atm.vcproj.alex-PC.alex.user
+END
+atm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/52/trunk/atm/atm.vcproj
+END
+withdraw_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/atm/withdraw_transaction.h
+END
+inquiry_transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/trunk/atm/inquiry_transaction.cpp
+END
+account_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/trunk/atm/account_info.cpp
+END
+card.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/22/trunk/atm/card.cpp
+END
+inquiry_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/atm/inquiry_transaction.h
+END
+user.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/atm/user.txt
+END
+deposit_transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22/trunk/atm/deposit_transaction.cpp
+END
+account_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/trunk/atm/account_info.h
+END
+get_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/atm/get_log.txt
+END
+user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/22/trunk/atm/user.cpp
+END
+card.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/22/trunk/atm/card.h
+END
+ClassDiagram1.cd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/atm/ClassDiagram1.cd
+END
+atm.vcproj.me-PC.me.user
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/atm/atm.vcproj.me-PC.me.user
+END
+ClassDiagram2.cd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/51/trunk/atm/ClassDiagram2.cd
+END
+atm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/73/trunk/atm/atm.cpp
+END
+deposit_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/atm/deposit_transaction.h
+END
+session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/trunk/atm/session.cpp
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/22/trunk/atm/user.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/atm/main.cpp
+END
+transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/22/trunk/atm/transaction.cpp
+END
+atm.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/44/trunk/atm/atm.h
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/22/trunk/atm/session.h
+END
+transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/22/trunk/atm/transaction.h
+END
+store_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/atm/store_log.txt
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/atm/ReadMe.txt
+END

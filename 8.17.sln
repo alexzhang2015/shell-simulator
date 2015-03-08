@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shell", "shell\shell.vcproj", "{B8993E27-26E5-4439-84FE-9193F3B7273F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A6699C0B-0697-4B19-92E0-F490D5EDA3F9} = {A6699C0B-0697-4B19-92E0-F490D5EDA3F9}
+		{DF83AC3E-927E-4589-AA33-0A6ADAF15F56} = {DF83AC3E-927E-4589-AA33-0A6ADAF15F56}
+		{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9} = {92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}
+		{919E7AD4-1C68-40AC-B421-309EF653BD50} = {919E7AD4-1C68-40AC-B421-309EF653BD50}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "atm", "atm\atm.vcproj", "{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23EC184B-DA6C-457B-9D27-AADCE908D2CD} = {23EC184B-DA6C-457B-9D27-AADCE908D2CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "filesystem", "filesystem\filesystem.vcproj", "{919E7AD4-1C68-40AC-B421-309EF653BD50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base", "base\base.vcproj", "{DF83AC3E-927E-4589-AA33-0A6ADAF15F56}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqlite", "third_party\sqlite\sqlite.vcproj", "{A6699C0B-0697-4B19-92E0-F490D5EDA3F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tinyxml", "third_party\tinyxml\tinyxml.vcproj", "{23EC184B-DA6C-457B-9D27-AADCE908D2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8993E27-26E5-4439-84FE-9193F3B7273F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8993E27-26E5-4439-84FE-9193F3B7273F}.Debug|Win32.Build.0 = Debug|Win32
+		{B8993E27-26E5-4439-84FE-9193F3B7273F}.Release|Win32.ActiveCfg = Release|Win32
+		{B8993E27-26E5-4439-84FE-9193F3B7273F}.Release|Win32.Build.0 = Release|Win32
+		{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}.Debug|Win32.Build.0 = Debug|Win32
+		{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}.Release|Win32.ActiveCfg = Release|Win32
+		{92C2E4C3-82B4-48C0-9C64-910B42D7BAB9}.Release|Win32.Build.0 = Release|Win32
+		{919E7AD4-1C68-40AC-B421-309EF653BD50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{919E7AD4-1C68-40AC-B421-309EF653BD50}.Debug|Win32.Build.0 = Debug|Win32
+		{919E7AD4-1C68-40AC-B421-309EF653BD50}.Release|Win32.ActiveCfg = Release|Win32
+		{919E7AD4-1C68-40AC-B421-309EF653BD50}.Release|Win32.Build.0 = Release|Win32
+		{DF83AC3E-927E-4589-AA33-0A6ADAF15F56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF83AC3E-927E-4589-AA33-0A6ADAF15F56}.Debug|Win32.Build.0 = Debug|Win32
+		{DF83AC3E-927E-4589-AA33-0A6ADAF15F56}.Release|Win32.ActiveCfg = Release|Win32
+		{DF83AC3E-927E-4589-AA33-0A6ADAF15F56}.Release|Win32.Build.0 = Release|Win32
+		{A6699C0B-0697-4B19-92E0-F490D5EDA3F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6699C0B-0697-4B19-92E0-F490D5EDA3F9}.Debug|Win32.Build.0 = Debug|Win32
+		{A6699C0B-0697-4B19-92E0-F490D5EDA3F9}.Release|Win32.ActiveCfg = Release|Win32
+		{A6699C0B-0697-4B19-92E0-F490D5EDA3F9}.Release|Win32.Build.0 = Release|Win32
+		{23EC184B-DA6C-457B-9D27-AADCE908D2CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23EC184B-DA6C-457B-9D27-AADCE908D2CD}.Debug|Win32.Build.0 = Debug|Win32
+		{23EC184B-DA6C-457B-9D27-AADCE908D2CD}.Release|Win32.ActiveCfg = Release|Win32
+		{23EC184B-DA6C-457B-9D27-AADCE908D2CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

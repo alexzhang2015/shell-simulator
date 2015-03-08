@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/71/trunk/atm/Debug
+END
+account_info.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/atm/Debug/account_info.obj
+END
+card.obj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/atm/Debug/card.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/atm/Debug/vc90.pdb
+END
+deposit_transaction.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/atm/Debug/deposit_transaction.obj
+END
+user.obj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/atm/Debug/user.obj
+END
+withdraw_transaction.obj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/atm/Debug/withdraw_transaction.obj
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/atm/Debug/BuildLog.htm
+END
+atm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/71/trunk/atm/Debug/atm.obj
+END
+session.obj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/71/trunk/atm/Debug/session.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/atm/Debug/vc90.idb
+END
+inquiry_transaction.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/atm/Debug/inquiry_transaction.obj
+END
+transaction.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/atm/Debug/transaction.obj
+END

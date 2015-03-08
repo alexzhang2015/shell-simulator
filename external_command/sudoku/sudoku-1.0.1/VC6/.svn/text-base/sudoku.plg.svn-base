@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sudoku - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\me\AppData\Local\Temp\RSP1680.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /I "win32" /I "..\win32" /D "_DEBUG" /D "WIN32" /D "_CONSOLE" /D "_MBCS" /D TEMPLATE=\"template\" /D PRECANNED=\"precanned\" /FR"../Debug/" /Fp"../Debug/sudoku.pch" /YX /Fo"../Debug/" /Fd"../Debug/" /FD /GZ /c 
+"D:\cygwin\home\me\sudoku-1.0.1\win32\curses.c"
+"D:\cygwin\home\me\sudoku-1.0.1\sudoku.c"
+"D:\cygwin\home\me\sudoku-1.0.1\win32\termios.c"
+"D:\cygwin\home\me\sudoku-1.0.1\win32\unistd.c"
+]
+Creating command line "cl.exe @C:\Users\me\AppData\Local\Temp\RSP1680.tmp" 
+Creating temporary file "C:\Users\me\AppData\Local\Temp\RSP1690.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:yes /pdb:"../Debug/sudoku.pdb" /debug /machine:I386 /out:"../sudoku.exe" /pdbtype:sept 
+"\cygwin\home\me\sudoku-1.0.1\Debug\curses.obj"
+"\cygwin\home\me\sudoku-1.0.1\Debug\sudoku.obj"
+"\cygwin\home\me\sudoku-1.0.1\Debug\termios.obj"
+"\cygwin\home\me\sudoku-1.0.1\Debug\unistd.obj"
+]
+Creating command line "link.exe @C:\Users\me\AppData\Local\Temp\RSP1690.tmp"
+<h3>Output Window</h3>
+Compiling...
+curses.c
+sudoku.c
+termios.c
+unistd.c
+Linking...
+
+
+
+<h3>Results</h3>
+sudoku.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
